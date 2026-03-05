@@ -4,8 +4,4 @@
 🏫 Student @ 42 Paris<br>🖥️ Coding, programming and learning about tech<br>📌 Currently creating a web server<br>📚 Learning about Systems and network, Backend programming, Cloud infrastructure<br> 📨 Feel free to contact me on  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniya-ahmane) 
 <br>
 
-![](https://github-readme-stats.vercel.app/api?username=dna-ahm&theme=swift&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dna-ahm&theme=swift&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dna-ahm&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ---
