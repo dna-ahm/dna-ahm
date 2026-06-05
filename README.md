@@ -7,7 +7,6 @@
 📨 Feel free to contact me on  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniya-ahmane) 
 <br>
 
----
 
 ## Programming languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
