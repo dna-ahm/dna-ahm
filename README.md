@@ -2,9 +2,7 @@
 
 🏫 Student @ 42 Paris<br>
 🖥️ Programming and learning about tech<br>
-📌 Currently creating a Full-stack web application<br>
 📚 Learning about Systems and network, Full-stack programming, Cloud infrastructure<br>
-📨 Feel free to contact me on  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniya-ahmane) 
 <br>
 
 
